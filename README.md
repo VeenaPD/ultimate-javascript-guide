@@ -1,1 +1,1 @@
-# ultimate-javascript-guide
+# Ultimate Javascript Guide
